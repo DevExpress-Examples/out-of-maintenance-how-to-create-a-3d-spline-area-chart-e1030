@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Series_3DSplineAreaChart", "Series_3DSplineAreaChart\Series_3DSplineAreaChart.vbproj", "{B5E6EC45-7AF7-4610-955C-3A9CAE261AE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5E6EC45-7AF7-4610-955C-3A9CAE261AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E6EC45-7AF7-4610-955C-3A9CAE261AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E6EC45-7AF7-4610-955C-3A9CAE261AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E6EC45-7AF7-4610-955C-3A9CAE261AE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
